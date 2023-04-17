@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 ## 技术栈
 
@@ -162,7 +161,3 @@ module.exports = ({ file }) => {
 }
 ```
 
-=======
-# NekoShopping
-小喵优品-vue3全家桶商城项目
->>>>>>> remotes/origin/main
